@@ -1,5 +1,5 @@
 # big-pig
-The game of big pig (2-dice)
+The game of BIG PIG (2-dice)
 
 Current function :
   - player versus computer
